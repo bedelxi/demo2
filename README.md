@@ -2,6 +2,8 @@
 
 This is a simple readme file
 
-## Heading 2
+## Heading 3
 
-This is a cooler text
+Just something going on
+Updates in stage
+More updates in working directory
